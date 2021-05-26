@@ -1,0 +1,223 @@
+<form action="" class="mod_tiny_contact_form_new_test" id="mod_tiny_contact_form_new_test" method="post">
+<div class="field material_design_input">
+<input class="required inputbox material_design_input" id="name" name="name" required="" size="20" type="text"/>
+<label for="name">Meno a priezvisko</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field material_design_input">
+<input class="required inputbox material_design_input" id="street" name="street" required="" size="20" type="text"/>
+<label for="street">Ulica</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field material_design_input">
+<input class="required inputbox material_design_input" id="psc" name="psc" required="" size="20" type="text"/>
+<label for="psc">PS»</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field material_design_input">
+<input class="required inputbox material_design_input" id="city" name="city" required="" size="20" type="text"/>
+<label for="city">Mesto</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field valid filled material_design_input">
+<select class="inputbox valid filled material_design_input" id="state" name="state">
+<option value="SVK">Slovensko</option> <option value="CZE">»esko</option></select>
+<label for="state">ät·t</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field material_design_input">
+<input class="required inputbox material_design_input" id="phone" name="phone" required="" size="20" type="phone"/>
+<label for="phone">Tel. kontakt</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field material_design_input">
+<input class="required inputbox material_design_input" id="yourEmail" name="yourEmail" required="" size="25" type="email"/>
+<label for="yourEmail">V·ö e-mail</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field valid filled material_design_input">
+<select class="inputbox valid filled material_design_input" id="prefered_size_sel" name="prefered_size_sel">
+<option value="4y">US 4y</option> <option value="4.5y">US 4.5y</option> <option value="5y">US 5y</option> <option value="5.5y">US 5.5y</option> <option value="6y">US 6y</option> <option value="6.5y">US 6.5y</option> <option value="7y">US 7y</option> <option value="7">US 7</option> <option value="7.5">US 7.5</option> <option value="8">US 8</option> <option value="8.5">US 8.5</option> <option value="9">US 9</option> <option value="9.5">US 9.5</option> <option value="10">US 10</option> <option value="10.5">US 10.5</option> <option value="11">US 11</option> <option value="11.5">US 11.5</option> <option value="12">US 12</option> <option value="13">US 13</option></select>
+<label for="prefered_size_sel">Preferovan· veækosù</label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<div class="field checkbox material_design_checkbox gdpr">
+<input class="required checkbox material_design_checkbox gdpr filled" id="agreed_personal_info_tiny_contact_form" name="agreed_personal_info_tiny_contact_form" required="" size="20" type="checkbox" value="1"/>
+<label for="agreed_personal_info_tiny_contact_form">S˙hlasÌm so <a class="prettyPhoto_gdpr" href="javascript:void(0)" target="_blank"> Z·sadami spracovania osobn˝ch ˙dajov.</a></label>
+<div class="item_status">
+<span class="required">
+<svg enable-background="new -2.778 -2.778 7 7" height="7px" version="1.1" viewbox="-2.778 -2.778 7 7" width="7px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<path d="M-0.214-2.778l0.291,2.69l-2.579-0.761l-0.276,1.828l2.39,0.189L-1.949,3.34l1.668,0.868l0.97-2.274 l1.105,2.288L3.398,3.34l-1.58-2.172l2.404-0.175L3.989-0.849L1.352-0.088l0.291-2.69H-0.214z" fill="#FF0000"></path>
+</svg>
+</span>
+<span class="check">
+<svg enable-background="new 0 0 14 11" height="11px" version="1.1" viewbox="0 0 14 11" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#9AD4BB" points="12.001,0 5.334,6.876 1.999,3.436 0,5.502 5.334,11 14,2.062 "></polygon>
+</svg>
+</span>
+<span class="error">
+<svg enable-background="new 0 0 14 14" height="11px" version="1.1" viewbox="0 0 14 14" width="11px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+<polygon fill="#ED1F24" points="14,1.875 12.126,0 7,5.125 1.875,0 0,1.875 5.126,7 0,12.126 1.875,14 7,8.875 12.126,14 14,12.126 8.875,7 "></polygon>
+</svg>
+</span>
+<span class="calendar hide">
+<span class="cs_icon csi-calendar"></span>
+</span>
+</div>
+</div>
+<input name="form_id" type="hidden" value="505"/>
+<input class="button" name="submit" type="button" value="Poslaù"/>
+<input name="URL" type="hidden" value="https://www.thestreets.sk/online-raffle/"/>
+</form>
