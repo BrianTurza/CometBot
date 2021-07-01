@@ -2,8 +2,10 @@
 Title: CometBot
 Author: Brian Turza
 """
+
 import csv
 import time
+from colorama import *
 
 from sites.theStreets import TheStreets
 
@@ -13,12 +15,21 @@ driver = webdriver.PhantomJS(PATH)
 """
 
 class CometBot(TheStreets):
-    
+
     def __init__(self):
         self.PATH_Selenium = "C:/Program Files (x86)/chromedriver.exe"
         self.urls = [
             "https://www.thestreets.sk/online-raffle/", 
             "footlocker.en.uk"
+        ]
+        self.platforms = {
+            'Nike' : [],
+            'Footsites' : ['Footlocker', 'Kids Footlocker'], 
+            'Supreme' : []
+        }
+        self.shopList = [
+            "The Streets",
+            "Footlocker"
         ]
         self.commands = {
             'help' : 'returns list of all commands', 
@@ -35,10 +46,10 @@ class CometBot(TheStreets):
 |.  `:   |          | |___| (_) | | | | | |  __/ |_| |_) | (_) | |_ 
  \:   `;/            \_____\___/|_| |_| |_|\___|\__|____/ \___/ \__|   
   '-..-'
- # ----------------------------------------------------------------#
+ #-----------------------------------------------------------------#
  |  Bot Version: v0.1 - preAlpha                                   |  
- |  Type help() for list of commands                               |       
- # ----------------------------------------------------------------#
+ |  Type help for list of commands                                 |       
+ #-----------------------------------------------------------------#
 """
         return str
 
@@ -46,19 +57,28 @@ class CometBot(TheStreets):
         inp = ""
         print(self.display_logo())
         while inp != "exit":
-            inp = input(" ~$ ")
+            inp = input(" $ ")
+            if inp == "": continue
+
             if inp == "help":
                 for command, explanation in self.commands.items():
                     print(f"{command} - {explanation}")
             elif inp == "order":
-                print("1. TheStreets.sk")
+                print("----------------")
+                print("Supported shops:")
+                print("----------------")
+                print("\n".join([f"{id + 1}. {shop}" for id, shop in enumerate(self.shopList)]))
+                print("----------------")
                 shop = input("Choose site [number]:")
-                file_data = input("Enter cvs file name with data, f. e. [filename].csv :")
-                if shop == "1.":
+                file_data = input("Enter csv file name with data, f. e. [filename].csv :")
+                if shop in ["1.", "1"]:
                     data = self.extractData(file_data) 
                     for row in data:
                         self.submitForm("thestreets", row)
-                        time.sleep(1)
+            else:
+                init(convert=True)
+                print(f"{Fore.RED}Error, command '{inp}' was not found{Fore.WHITE}")
+                
         
     def extractData(self, filename):
         result = []
