@@ -1,2 +1,2 @@
-# TheStreetsBot
+# CometBot
  
