@@ -2,7 +2,7 @@
 
 ### Usage
 
-```console
+```
 $ main.py --help
 
                 .:'   _____                     _   ____        _   
@@ -32,7 +32,7 @@ $ pip install -r requirements.txt
 
  Or by virtual enviroment
 
-```console
+```
 # Create a new virtual environment
 $ python3 -m venv env
 
