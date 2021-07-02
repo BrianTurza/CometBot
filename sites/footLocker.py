@@ -1,2 +1,0 @@
-class FootLocker:
-    pass

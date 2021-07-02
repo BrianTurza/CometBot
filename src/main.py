@@ -61,7 +61,6 @@ class CometBot(TheStreets):
     def handleArgs(self) -> None:
         arg_len = len(sys.argv)
         if arg_len < 2: return
-            
         if sys.argv[1] in ["-h", "--help"]:
             self.displayHelp()
 
